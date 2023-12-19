@@ -1,2 +1,2 @@
-# serviciotecnico
-Empresa de servicio tecnico de celulares
+# serviciotécnico
+Empresa de servicio técnico de celulares
